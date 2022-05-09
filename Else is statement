@@ -1,0 +1,7 @@
+b = int(input("Enter the length"))
+c = int(input("Enter the breadth"))
+if b==c:
+    print("Square")
+else:
+    print("Not Square")
+    
