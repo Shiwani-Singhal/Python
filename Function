@@ -1,0 +1,24 @@
+# def sum(a,b): #parametrized function
+#     #print(a+b)
+#     return(a+b)
+
+# a = int(input("Enter first no. : "))
+# b  = int(input("Enter the second no. : "))
+ 
+# print(sum(a,b))
+
+
+
+# def sum(a,b=20):
+#     print(a+b)
+# a = int(input("Enter the value of  a :")) 
+# sum(a)
+
+
+# def sum(a,b=20):
+#     # print(a+b)
+    
+# a = int(input("Enter the value of a : "))    
+# b = int(input("Enter the value of b : ")) #this will override
+# # the value of b i.e b =20
+# print(sum(a+b))
